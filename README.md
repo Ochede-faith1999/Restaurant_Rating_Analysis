@@ -89,7 +89,7 @@ Service quality remains the weakest link, needing urgent improvement to match fo
 
 ## Video Demo: 
 
-[Dashboard tour](https://youtu.be/link)  
+[Dashboard Walkthrough](https://youtu.be/AVKZkLLuel8?si=iII8ZW7plz3AcXVA)  
 
 ## CONNECT WITH ME ON SOCIALS:
 - [LinkedIn](https://www.linkedin.com/in/ochede-faith-15207a224)
